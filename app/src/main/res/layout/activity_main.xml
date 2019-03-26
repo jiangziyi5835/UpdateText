@@ -14,7 +14,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="109dp"
         android:textSize="30sp"
-        android:text="点击下载新版本" />
+        android:text="点击下载新版本111" />
 
     <ProgressBar
         android:id="@+id/pb_updating"
@@ -25,5 +25,6 @@
         android:layout_centerInParent="true"
     android:visibility="invisible"
         />
+
 
 </RelativeLayout>
